@@ -1,6 +1,17 @@
 # OpenCon-FundingDB
 Creating an open, searchable database of funding opportunities for researchers
 
+---
+**UPDATE (August 2018)**
+
+This project has lapsed. A similar project has instead been initiated and is in process by a group of eLife ambassadors, including Aziz Khan, Lotte de Winde, Dieter Lukas and Juan Quintana.
+
+Their focus is on postdoctoral funding opportunities and their current lists are:
+* funding opportunities: https://asntech.github.io/postdoc-funding-schemes/
+* travel grants: https://asntech.github.io/postdoc-funding-schemes/travel-grants/ 
+Through these sites, you can submit opportunities that are missing from the list via the 'Submit ..' form.
+---
+
 This project was initiated at OpenCon2016 via an unconference session involving:
 - Naomi Penfold 
 - Gary McDowell
